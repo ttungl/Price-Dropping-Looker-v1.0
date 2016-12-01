@@ -8,8 +8,8 @@ Email: ttungl at gmail <br />
 Python <br />
 Version: 2.7 <br />
 ## Updated
-Percentage dropped alert,
-The amount of reviews, and ratings.<br />
+The percentage of price dropped,
+the amount of reviews, and ratings.<br />
 ## Input
 Your username and password in usrpass file<br />
 Your receiver's email<br />
