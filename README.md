@@ -1,4 +1,4 @@
-## Tool 
+## Price Dropped Watcher
 This tool is used to alert the price dropped on the Amazon items via email.</br>
 Note, this can be extended to other shopping websites and emails servers with appropriate modifications.</br>
 ## Disclaimer:
