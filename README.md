@@ -1,7 +1,7 @@
 ## Tool 
 This tool is used to alert the price dropped on Amazon items via email.</br>
 ## Disclaimer:
-Original: github.com/eyalzek/price-alert <br />
+Original from: github.com/eyalzek/price-alert <br />
 Modified by: Tung Thanh Le <br />
 Email: ttungl at gmail <br />
 ## Language
