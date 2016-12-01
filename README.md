@@ -1,14 +1,12 @@
-## Software 
-Alert the price dropped for Amazon items via email.
-
-## Disclaim:
+## Tool 
+This tool is used to alert the price dropped on Amazon items via email.</br>
+## Disclaimer:
 Original: github.com/eyalzek/price-alert <br />
 Modified by: Tung Thanh Le <br />
-## Tool
-Language: Python <br />
-Version: 2.7 <br />
-## Contact
 Email: ttungl at gmail <br />
+## Language
+Python <br />
+Version: 2.7 <br />
 ## Updated
 Percentage dropped alert,
 The amount of reviews, and ratings.<br />
