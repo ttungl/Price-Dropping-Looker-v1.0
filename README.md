@@ -31,5 +31,4 @@ Modified by: Tung Thanh Le <br />
 Email: ttungl at gmail <br />
 
 ## Language
-Python <br />
-Version: 2.7 <br />
+Python 2.7 <br />
