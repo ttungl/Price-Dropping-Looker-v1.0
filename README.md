@@ -23,10 +23,12 @@ The customer ratings.<br />
 ## Files included
 1. price-reviews-ratings-alert.py<br/>
 2. usrpass<br/>
+
 ## Disclaimer:
 Original from: github.com/eyalzek/price-alert <br />
 Modified by: Tung Thanh Le <br />
 Email: ttungl at gmail <br />
+
 ## Language
 Python <br />
 Version: 2.7 <br />
