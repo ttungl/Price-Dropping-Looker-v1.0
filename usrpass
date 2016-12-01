@@ -1,0 +1,4 @@
+[email]
+receiver = your_receiver_email
+user = your_email
+pass = your_password
