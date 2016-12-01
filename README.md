@@ -20,7 +20,7 @@ The amount of customer reviews.<br />
 The customer ratings.<br />
 
 ## Terminal
-![alt tag](https://github.com/ttungl/email-alert-price-reviews-rating-Amazon-items/blob/master/price-review-rating-email-alert-v1.png?raw=true)
+![alt tag](https://github.com/ttungl/email-alert-price-reviews-rating-Amazon-items/blob/master/price-review-rating-email--alert-v1.png?raw=true)
 
 ## Results
 ![alt tag](https://github.com/ttungl/email-alert-price-reviews-rating-Amazon-items/blob/master/emailed-alert-v1.png?raw=true)
