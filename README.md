@@ -8,6 +8,10 @@ Email: ttungl at gmail <br />
 ## Language
 Python <br />
 Version: 2.7 <br />
+## Files included
+price-reviews-ratings-alert.py<br/>
+usrpass<br/>
+
 ## Updated
 The percentage of price dropped,
 the amount of reviews, and ratings.<br />
