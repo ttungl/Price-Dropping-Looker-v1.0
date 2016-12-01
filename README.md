@@ -1,7 +1,7 @@
 ## Price Dropped Watcher
 Version 1.0 (without GUI)</br>
 This tool is used to alert the price dropped on the Amazon items via email.</br>
-Note, this can be extended to other shopping websites and emails servers with appropriate modifications.</br>
+Note, this can be extended to other shopping websites (not only Amazon) and emails servers (not only GMAIL) with appropriate modifications.</br>
 
 ## Terminal
 ![alt tag](https://github.com/ttungl/Price-Dropped-Watcher/blob/master/results/price-review-rating-email--alert-v1.png?raw=true)
