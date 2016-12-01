@@ -18,3 +18,4 @@ Your list of items (ASINs could be imported from the console or GUI)<br />
 Current Price and Dropped Percentage.<br />
 The amount of customer reviews.<br />
 The customer ratings.<br />
+ 
