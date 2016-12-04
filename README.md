@@ -26,7 +26,7 @@ The customer ratings.<br />
 2. usrpass<br/>
 
 ## Disclaimer:
-Original from: github.com/eyalzek/price-alert <br />
+Inspired by: github.com/eyalzek/price-alert <br />
 Modified by: Tung Thanh Le <br />
 Email: ttungl at gmail <br />
 
