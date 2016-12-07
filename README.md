@@ -1,4 +1,4 @@
-## Price-Dropping-Looker
+## Price-Dropping-Looker 
 Version 1.0 (without GUI)</br>
 This tool is used to alert the price dropped on the Amazon items via email.</br>
 Note, this can be extended to other shopping websites (not only Amazon) and emails servers (not only GMAIL) with appropriate modifications.</br>
