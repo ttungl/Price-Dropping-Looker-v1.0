@@ -6,7 +6,6 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from lxml import html
 import ConfigParser
-
 #******************************************
 # Alert the price dropped for Amazon items.
 #******************************************
