@@ -1,6 +1,6 @@
 ## Price Dropping Looker 
     Author: Tung Thanh Le
-    Contact: ttungl at gmail
+    Contact: ttungl at gmail dot com
 Version 1.0 (without GUI)</br>
 This tool is used to alert the price dropped on the Amazon items via email.</br>
 Note, this can be extended to other shopping websites (not only Amazon) and emails servers (not only GMAIL), and with any types of interest information (not only the items' price) with appropriate modifications.</br>
