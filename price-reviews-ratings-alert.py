@@ -9,12 +9,12 @@ import ConfigParser
 #******************************************
 # Alert the price dropped for Amazon items.
 #******************************************
-# Original from: github.com/eyalzek/price-alert
+# Inspired by: github.com/eyalzek/price-alert
 # Modified by: Tung Thanh Le
 # Language: Python 
 # Version: 2.7 
-# Email: ttungl at gmail
-# URL: github/ttungl
+# Email: ttungl at gmail dot com
+# URL: github.com/ttungl
 # Updated: The percentage of price dropped,
 # the amount of reviews, and ratings, 
 #          the amount of reviews, and ratings.
